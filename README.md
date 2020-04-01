@@ -1,2 +1,2 @@
 # superlists
-Project for training TDD 
+Project for TDD training 
